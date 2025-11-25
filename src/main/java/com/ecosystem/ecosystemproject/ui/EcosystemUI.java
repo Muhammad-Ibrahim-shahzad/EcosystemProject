@@ -1,4 +1,4 @@
 package com.ecosystem.ecosystemproject.ui;
 
-public class EcosystemController {
+public class EcosystemUI {
 }

@@ -1,4 +1,4 @@
 package com.ecosystem.ecosystemproject;
 
-public class Launcher {
+public class EcosystemApplication {
 }
